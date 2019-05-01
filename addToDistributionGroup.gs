@@ -1,8 +1,8 @@
 //group 1 email address
-var group1Email = 'esaqialerts@aes.ac.in';
+var group1Email = 'esaqialerts@xxx.xxx';
 
 //Group2 email address
-var group2Email = 'mshsaqialerts@aes.ac.in'
+var group2Email = 'mshsaqialerts@xxx.xxx'
 /**
  * Adds a user to an existing group in the domain.
  */
